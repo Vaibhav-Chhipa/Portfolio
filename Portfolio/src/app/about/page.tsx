@@ -8,7 +8,6 @@ import {
   fadeIn,
   staggerContainer,
   cardHover,
-  cardHoverSmall
 } from '@/utils/animations'
 
 export default function About() {
